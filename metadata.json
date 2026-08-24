@@ -1,0 +1,6 @@
+{
+  "name": "Pengingat Expired & Stok Toko Real-Time",
+  "description": "Aplikasi inventaris toko untuk pengingat masa kedaluwarsa (expired) produk dengan sistem notifikasi otomatis, fitur Stok Opname (BAPO), dan pelaporan mutasi stok real-time.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
