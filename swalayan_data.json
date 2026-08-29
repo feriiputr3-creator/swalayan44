@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Lucky strike purple boost",
+      "sku": "1278923823",
+      "category": "Lainnya",
+      "location": "Kasir",
+      "stock": 44,
+      "unit": "Pcs",
+      "batchNo": "",
+      "expiredDate": "2026-08-29",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "ml9ixcb",
+      "lastUpdated": "2026-08-29T02:07:08.767Z"
+    }
+  ],
+  "mutationLogs": [
+    {
+      "id": "mjnw1ff",
+      "productId": "ml9ixcb",
+      "productName": "Lucky strike purple boost",
+      "type": "IN",
+      "qtyChange": 44,
+      "finalStock": 44,
+      "date": "2026-08-29T02:07:08.767Z",
+      "note": "Barang Masuk Awal"
+    }
+  ]
+}
