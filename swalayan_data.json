@@ -13,6 +13,20 @@
       "sellPrice": 0,
       "id": "ml9ixcb",
       "lastUpdated": "2026-08-29T02:07:08.767Z"
+    },
+    {
+      "name": "sabun ",
+      "sku": "8999991",
+      "category": "Lainnya",
+      "location": "A1",
+      "stock": 100,
+      "unit": "Pcs",
+      "batchNo": "",
+      "expiredDate": "2027-05-29",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "1v0tbbj",
+      "lastUpdated": "2026-08-29T03:56:27.983Z"
     }
   ],
   "mutationLogs": [
@@ -24,6 +38,16 @@
       "qtyChange": 44,
       "finalStock": 44,
       "date": "2026-08-29T02:07:08.767Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "5196ocs",
+      "productId": "1v0tbbj",
+      "productName": "sabun ",
+      "type": "IN",
+      "qtyChange": 100,
+      "finalStock": 100,
+      "date": "2026-08-29T03:56:27.983Z",
       "note": "Barang Masuk Awal"
     }
   ]
