@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "name": "MITU BABY BOX",
-      "sku": "8992745326298",
-      "category": "Lainnya",
-      "location": "RAK A1",
-      "stock": 4,
-      "unit": "Pcs",
-      "batchNo": "23125mg011",
-      "expiredDate": "2027-10-01",
-      "buyPrice": 57000,
-      "sellPrice": 57000,
-      "id": "89kr35r",
-      "lastUpdated": "2026-09-04T04:42:04.421Z"
-    },
-    {
       "name": "CUSSONS BABY NEWBORD",
       "sku": "8998103017600",
       "category": "Lainnya",
