@@ -181,6 +181,20 @@
       "sellPrice": 2500,
       "id": "grjmwy5",
       "lastUpdated": "2026-09-04T23:52:58.843Z"
+    },
+    {
+      "name": "Cleo 550ml",
+      "sku": "8996129803504",
+      "category": "Minuman",
+      "location": "Heny",
+      "stock": 7,
+      "unit": "Pcs",
+      "batchNo": "",
+      "expiredDate": "2027-05-05",
+      "buyPrice": 0,
+      "sellPrice": 2500,
+      "id": "iklo1yq",
+      "lastUpdated": "2026-09-04T23:55:10.217Z"
     }
   ],
   "mutationLogs": [
@@ -672,6 +686,16 @@
       "qtyChange": 3,
       "finalStock": 3,
       "date": "2026-09-04T23:52:58.843Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "fcv69au",
+      "productId": "iklo1yq",
+      "productName": "Cleo 550ml",
+      "type": "IN",
+      "qtyChange": 7,
+      "finalStock": 7,
+      "date": "2026-09-04T23:55:10.217Z",
       "note": "Barang Masuk Awal"
     }
   ]
