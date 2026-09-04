@@ -125,6 +125,20 @@
       "sellPrice": 0,
       "id": "lmrwc8k",
       "lastUpdated": "2026-09-04T05:46:19.753Z"
+    },
+    {
+      "name": "Aqua 1liter",
+      "sku": "8886008101091",
+      "category": "Minuman",
+      "location": "Heny",
+      "stock": 5,
+      "unit": "Karton",
+      "batchNo": "",
+      "expiredDate": "2028-08-12",
+      "buyPrice": 0,
+      "sellPrice": 5000,
+      "id": "ztfaepp",
+      "lastUpdated": "2026-09-04T23:44:08.497Z"
     }
   ],
   "mutationLogs": [
@@ -576,6 +590,16 @@
       "qtyChange": 6,
       "finalStock": 6,
       "date": "2026-09-04T05:46:19.753Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "x9cluzo",
+      "productId": "ztfaepp",
+      "productName": "Aqua 1liter",
+      "type": "IN",
+      "qtyChange": 5,
+      "finalStock": 5,
+      "date": "2026-09-04T23:44:08.497Z",
       "note": "Barang Masuk Awal"
     }
   ]
