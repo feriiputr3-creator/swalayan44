@@ -209,6 +209,20 @@
       "sellPrice": 4000,
       "id": "o395mcb",
       "lastUpdated": "2026-09-04T23:57:21.512Z"
+    },
+    {
+      "name": "Larutan penyegar cap badak rasa leci",
+      "sku": "8998888888866",
+      "category": "Minuman",
+      "location": "Heny",
+      "stock": 12,
+      "unit": "Pcs",
+      "batchNo": "",
+      "expiredDate": "2028-07-21",
+      "buyPrice": 0,
+      "sellPrice": 7000,
+      "id": "0ilq1kv",
+      "lastUpdated": "2026-09-04T23:59:56.080Z"
     }
   ],
   "mutationLogs": [
@@ -720,6 +734,16 @@
       "qtyChange": 2,
       "finalStock": 2,
       "date": "2026-09-04T23:57:21.512Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "98t1q7g",
+      "productId": "0ilq1kv",
+      "productName": "Larutan penyegar cap badak rasa leci",
+      "type": "IN",
+      "qtyChange": 12,
+      "finalStock": 12,
+      "date": "2026-09-04T23:59:56.080Z",
       "note": "Barang Masuk Awal"
     }
   ]
