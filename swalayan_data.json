@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "id": "ipjo725",
-      "name": "Yogurt Strawberry 150ml",
-      "sku": "8991234567777",
-      "category": "Minuman",
-      "location": "Chiller 2",
-      "stock": 15,
-      "unit": "Botol",
-      "batchNo": "B-008",
-      "expiredDate": "2026-09-03",
-      "buyPrice": 7000,
-      "sellPrice": 9500,
-      "lastUpdated": "2026-09-04T04:08:18.233Z"
-    },
-    {
       "id": "lu942uy",
       "name": "Sabun Mandi Cair 450ml",
       "sku": "8991234567888",
