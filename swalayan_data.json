@@ -167,6 +167,20 @@
       "sellPrice": 58500,
       "id": "d3ww0sq",
       "lastUpdated": "2026-09-04T04:44:46.331Z"
+    },
+    {
+      "name": "CUSSONS BABY ",
+      "sku": "8888103208026",
+      "category": "Lainnya",
+      "location": "SAHAL RAK A1",
+      "stock": 5,
+      "unit": "Pcs",
+      "batchNo": "Dhl0828936",
+      "expiredDate": "2028-05-01",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "phf7g95",
+      "lastUpdated": "2026-09-04T04:48:39.953Z"
     }
   ],
   "mutationLogs": [
@@ -528,6 +542,16 @@
       "qtyChange": 1,
       "finalStock": 1,
       "date": "2026-09-04T04:44:46.331Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "upm5u3w",
+      "productId": "phf7g95",
+      "productName": "CUSSONS BABY ",
+      "type": "IN",
+      "qtyChange": 5,
+      "finalStock": 5,
+      "date": "2026-09-04T04:48:39.953Z",
       "note": "Barang Masuk Awal"
     }
   ]
