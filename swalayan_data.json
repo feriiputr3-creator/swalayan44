@@ -237,6 +237,20 @@
       "sellPrice": 0,
       "id": "elwswiv",
       "lastUpdated": "2026-09-04T05:36:40.633Z"
+    },
+    {
+      "name": "Kahf acne and pore cleanse",
+      "sku": "8993137008471",
+      "category": "Lainnya",
+      "location": "Rizal A1",
+      "stock": 6,
+      "unit": "Pcs",
+      "batchNo": "HM10A",
+      "expiredDate": "2029-08-12",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "tozuelp",
+      "lastUpdated": "2026-09-04T05:38:44.923Z"
     }
   ],
   "mutationLogs": [
@@ -648,6 +662,16 @@
       "qtyChange": 6,
       "finalStock": 6,
       "date": "2026-09-04T05:36:40.633Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "si5wpnf",
+      "productId": "tozuelp",
+      "productName": "Kahf acne and pore cleanse",
+      "type": "IN",
+      "qtyChange": 6,
+      "finalStock": 6,
+      "date": "2026-09-04T05:38:44.923Z",
       "note": "Barang Masuk Awal"
     }
   ]
