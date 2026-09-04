@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "id": "1qc7l3t",
-      "name": "Susu UHT Full Cream 1L",
-      "sku": "8991234567890",
-      "category": "Susu",
-      "location": "Chiller 2 - B1",
-      "stock": 24,
-      "unit": "Pcs",
-      "batchNo": "B-001",
-      "expiredDate": "2026-09-02",
-      "buyPrice": 15000,
-      "sellPrice": 18000,
-      "lastUpdated": "2026-09-04T04:08:18.233Z"
-    },
-    {
       "id": "kzvx0gr",
       "name": "Mie Instan Goreng",
       "sku": "8991234567911",
