@@ -6,13 +6,13 @@
       "sku": "8991234567890",
       "category": "Susu",
       "location": "Chiller 2 - B1",
-      "stock": 24,
+      "stock": 23,
       "unit": "Pcs",
       "batchNo": "B-001",
       "expiredDate": "2026-09-02",
       "buyPrice": 15000,
       "sellPrice": 18000,
-      "lastUpdated": "2026-09-04T02:16:42.244Z"
+      "lastUpdated": "2026-09-04T03:56:57.463Z"
     },
     {
       "id": "jenmj42",
@@ -361,6 +361,16 @@
       "finalStock": 50,
       "date": "2026-09-04T02:16:42.244Z",
       "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "rghp3ib",
+      "productId": "9bj94zg",
+      "productName": "Susu UHT Full Cream 1L",
+      "type": "DISPOSE",
+      "qtyChange": -1,
+      "finalStock": 23,
+      "date": "2026-09-04T03:56:57.463Z",
+      "note": "0"
     }
   ]
 }
