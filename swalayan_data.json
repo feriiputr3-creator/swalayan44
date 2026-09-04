@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "id": "gvhq59f",
-      "name": "Air Mineral 600ml",
-      "sku": "8991234567111",
-      "category": "Minuman",
-      "location": "Chiller 1",
-      "stock": 120,
-      "unit": "Botol",
-      "batchNo": "B-006",
-      "expiredDate": "2027-09-04",
-      "buyPrice": 2500,
-      "sellPrice": 4000,
-      "lastUpdated": "2026-09-04T01:53:55.940Z"
-    },
-    {
       "id": "09gd9dp",
       "name": "Minyak Goreng 2L",
       "sku": "8991234567444",
