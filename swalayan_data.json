@@ -265,6 +265,34 @@
       "sellPrice": 0,
       "id": "9gxf0jz",
       "lastUpdated": "2026-09-04T05:42:33.749Z"
+    },
+    {
+      "name": "Kahf skin energizing and brightening",
+      "sku": "8993137710411",
+      "category": "Lainnya",
+      "location": "Rizal A1",
+      "stock": 6,
+      "unit": "Pcs",
+      "batchNo": "GM24A",
+      "expiredDate": "2029-07-26",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "6jcfvtc",
+      "lastUpdated": "2026-09-04T05:44:28.104Z"
+    },
+    {
+      "name": "Kahf skin energizing and brightening",
+      "sku": "8993137740845",
+      "category": "Lainnya",
+      "location": "Rizal A1",
+      "stock": 6,
+      "unit": "Pcs",
+      "batchNo": "GM03B",
+      "expiredDate": "2029-07-04",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "lmrwc8k",
+      "lastUpdated": "2026-09-04T05:46:19.753Z"
     }
   ],
   "mutationLogs": [
@@ -696,6 +724,26 @@
       "qtyChange": 6,
       "finalStock": 6,
       "date": "2026-09-04T05:42:33.749Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "d9083s3",
+      "productId": "6jcfvtc",
+      "productName": "Kahf skin energizing and brightening",
+      "type": "IN",
+      "qtyChange": 6,
+      "finalStock": 6,
+      "date": "2026-09-04T05:44:28.104Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "320wzp7",
+      "productId": "lmrwc8k",
+      "productName": "Kahf skin energizing and brightening",
+      "type": "IN",
+      "qtyChange": 6,
+      "finalStock": 6,
+      "date": "2026-09-04T05:46:19.753Z",
       "note": "Barang Masuk Awal"
     }
   ]
