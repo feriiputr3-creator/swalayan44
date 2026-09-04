@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "name": "CUSSONS BABY NEWBORD",
-      "sku": "8998103017600",
-      "category": "Lainnya",
-      "location": "RAK A1",
-      "stock": 1,
-      "unit": "Pcs",
-      "batchNo": "Dhl0886422",
-      "expiredDate": "2029-03-01",
-      "buyPrice": 58500,
-      "sellPrice": 58500,
-      "id": "d3ww0sq",
-      "lastUpdated": "2026-09-04T04:44:46.331Z"
-    },
-    {
       "name": "CUSSONS BABY ",
       "sku": "8888103208026",
       "category": "Lainnya",
