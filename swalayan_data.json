@@ -1,48 +1,6 @@
 {
   "products": [
     {
-      "id": "iy6b8ba",
-      "name": "Minyak Goreng 2L",
-      "sku": "8991234567444",
-      "category": "Bumbu",
-      "location": "Rak C1",
-      "stock": 30,
-      "unit": "Pcs",
-      "batchNo": "B-007",
-      "expiredDate": "2027-01-02",
-      "buyPrice": 32000,
-      "sellPrice": 35000,
-      "lastUpdated": "2026-09-04T02:16:42.244Z"
-    },
-    {
-      "id": "8406uf5",
-      "name": "Yogurt Strawberry 150ml",
-      "sku": "8991234567777",
-      "category": "Minuman",
-      "location": "Chiller 2",
-      "stock": 15,
-      "unit": "Botol",
-      "batchNo": "B-008",
-      "expiredDate": "2026-09-03",
-      "buyPrice": 7000,
-      "sellPrice": 9500,
-      "lastUpdated": "2026-09-04T02:16:42.244Z"
-    },
-    {
-      "id": "uan1dmo",
-      "name": "Sabun Mandi Cair 450ml",
-      "sku": "8991234567888",
-      "category": "Lainnya",
-      "location": "Rak D2",
-      "stock": 22,
-      "unit": "Pcs",
-      "batchNo": "B-009",
-      "expiredDate": "2028-04-26",
-      "buyPrice": 18000,
-      "sellPrice": 24000,
-      "lastUpdated": "2026-09-04T02:16:42.244Z"
-    },
-    {
       "id": "juatg25",
       "name": "Beras Premium 5Kg",
       "sku": "8991234567999",
