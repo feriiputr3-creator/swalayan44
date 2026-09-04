@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "id": "2dzom9s",
-      "name": "Sereal Cokelat 300g",
-      "sku": "8991234567333",
-      "category": "Makanan",
-      "location": "Rak A2 - L2",
-      "stock": 45,
-      "unit": "Pcs",
-      "batchNo": "B-005",
-      "expiredDate": "2027-03-03",
-      "buyPrice": 25000,
-      "sellPrice": 32000,
-      "lastUpdated": "2026-09-04T02:16:42.244Z"
-    },
-    {
       "id": "yrolhex",
       "name": "Air Mineral 600ml",
       "sku": "8991234567111",
