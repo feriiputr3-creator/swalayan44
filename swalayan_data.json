@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "id": "pij82ay",
-      "name": "Roti Tawar Serbaguna",
-      "sku": "8991234567222",
-      "category": "Makanan",
-      "location": "Etalase Depan",
-      "stock": 8,
-      "unit": "Pcs",
-      "batchNo": "B-004",
-      "expiredDate": "2026-09-06",
-      "buyPrice": 12000,
-      "sellPrice": 15000,
-      "lastUpdated": "2026-09-04T04:08:18.233Z"
-    },
-    {
       "id": "w6rkip4",
       "name": "Sereal Cokelat 300g",
       "sku": "8991234567333",
