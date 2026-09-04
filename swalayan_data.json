@@ -251,6 +251,20 @@
       "sellPrice": 0,
       "id": "tozuelp",
       "lastUpdated": "2026-09-04T05:40:30.984Z"
+    },
+    {
+      "name": "Kahf oil and acne care",
+      "sku": "8993137710428",
+      "category": "Lainnya",
+      "location": "Rizal A1",
+      "stock": 6,
+      "unit": "Pcs",
+      "batchNo": "GM16A",
+      "expiredDate": "2029-07-16",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "9gxf0jz",
+      "lastUpdated": "2026-09-04T05:42:33.749Z"
     }
   ],
   "mutationLogs": [
@@ -672,6 +686,16 @@
       "qtyChange": 6,
       "finalStock": 6,
       "date": "2026-09-04T05:38:44.923Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "6yxqy2p",
+      "productId": "9gxf0jz",
+      "productName": "Kahf oil and acne care",
+      "type": "IN",
+      "qtyChange": 6,
+      "finalStock": 6,
+      "date": "2026-09-04T05:42:33.749Z",
       "note": "Barang Masuk Awal"
     }
   ]
