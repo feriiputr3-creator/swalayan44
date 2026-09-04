@@ -209,6 +209,20 @@
       "sellPrice": 0,
       "id": "k8yxz3p",
       "lastUpdated": "2026-09-04T04:51:56.254Z"
+    },
+    {
+      "name": "ZWITSAL NATURAL BASIC PACK",
+      "sku": "8999999539603",
+      "category": "Lainnya",
+      "location": "SAHAL RAK A1",
+      "stock": 1,
+      "unit": "Pcs",
+      "batchNo": "Nkit210001377",
+      "expiredDate": "2025-09-21",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "96aocfd",
+      "lastUpdated": "2026-09-04T04:53:58.978Z"
     }
   ],
   "mutationLogs": [
@@ -600,6 +614,16 @@
       "qtyChange": 4,
       "finalStock": 4,
       "date": "2026-09-04T04:51:56.254Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "1biz400",
+      "productId": "96aocfd",
+      "productName": "ZWITSAL NATURAL BASIC PACK",
+      "type": "IN",
+      "qtyChange": 1,
+      "finalStock": 1,
+      "date": "2026-09-04T04:53:58.978Z",
       "note": "Barang Masuk Awal"
     }
   ]
