@@ -223,6 +223,20 @@
       "sellPrice": 0,
       "id": "96aocfd",
       "lastUpdated": "2026-09-04T04:53:58.978Z"
+    },
+    {
+      "name": "Kahf triple action oil and comedo defense",
+      "sku": "8993137723756",
+      "category": "Lainnya",
+      "location": "Rizal A1",
+      "stock": 6,
+      "unit": "Pcs",
+      "batchNo": "HM07B",
+      "expiredDate": "2029-08-09",
+      "buyPrice": null,
+      "sellPrice": 0,
+      "id": "elwswiv",
+      "lastUpdated": "2026-09-04T05:36:40.633Z"
     }
   ],
   "mutationLogs": [
@@ -624,6 +638,16 @@
       "qtyChange": 1,
       "finalStock": 1,
       "date": "2026-09-04T04:53:58.978Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "o5uqnto",
+      "productId": "elwswiv",
+      "productName": "Kahf triple action oil and comedo defense",
+      "type": "IN",
+      "qtyChange": 6,
+      "finalStock": 6,
+      "date": "2026-09-04T05:36:40.633Z",
       "note": "Barang Masuk Awal"
     }
   ]
