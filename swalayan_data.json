@@ -195,6 +195,20 @@
       "sellPrice": 2500,
       "id": "iklo1yq",
       "lastUpdated": "2026-09-04T23:55:10.217Z"
+    },
+    {
+      "name": "Pristine 600ml",
+      "sku": "8999510",
+      "category": "Minuman",
+      "location": "Heny",
+      "stock": 2,
+      "unit": "Karton",
+      "batchNo": "",
+      "expiredDate": "2028-08-12",
+      "buyPrice": 0,
+      "sellPrice": 4000,
+      "id": "o395mcb",
+      "lastUpdated": "2026-09-04T23:57:21.512Z"
     }
   ],
   "mutationLogs": [
@@ -696,6 +710,16 @@
       "qtyChange": 7,
       "finalStock": 7,
       "date": "2026-09-04T23:55:10.217Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "wjjjg0x",
+      "productId": "o395mcb",
+      "productName": "Pristine 600ml",
+      "type": "IN",
+      "qtyChange": 2,
+      "finalStock": 2,
+      "date": "2026-09-04T23:57:21.512Z",
       "note": "Barang Masuk Awal"
     }
   ]
