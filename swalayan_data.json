@@ -1,20 +1,5 @@
 {
-  "products": [
-    {
-      "id": "juatg25",
-      "name": "Beras Premium 5Kg",
-      "sku": "8991234567999",
-      "category": "Makanan",
-      "location": "Area Depan",
-      "stock": 50,
-      "unit": "Pcs",
-      "batchNo": "B-010",
-      "expiredDate": "2026-12-03",
-      "buyPrice": 65000,
-      "sellPrice": 72000,
-      "lastUpdated": "2026-09-04T02:16:42.244Z"
-    }
-  ],
+  "products": [],
   "mutationLogs": [
     {
       "id": "mjnw1ff",
