@@ -153,6 +153,20 @@
       "sellPrice": 7000,
       "id": "0ht5hgg",
       "lastUpdated": "2026-09-04T23:48:38.648Z"
+    },
+    {
+      "name": "Aqua 600ml",
+      "sku": "8886008101053",
+      "category": "Minuman",
+      "location": "Heny",
+      "stock": 30,
+      "unit": "Pcs",
+      "batchNo": "",
+      "expiredDate": "2028-01-20",
+      "buyPrice": 0,
+      "sellPrice": 3000,
+      "id": "2yhaeiw",
+      "lastUpdated": "2026-09-04T23:50:38.277Z"
     }
   ],
   "mutationLogs": [
@@ -624,6 +638,16 @@
       "qtyChange": 2,
       "finalStock": 2,
       "date": "2026-09-04T23:48:38.648Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "pqwwbrr",
+      "productId": "2yhaeiw",
+      "productName": "Aqua 600ml",
+      "type": "IN",
+      "qtyChange": 30,
+      "finalStock": 30,
+      "date": "2026-09-04T23:50:38.277Z",
       "note": "Barang Masuk Awal"
     }
   ]
