@@ -1,5 +1,146 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "v0xrgcs",
+      "name": "Susu UHT Full Cream 1L",
+      "sku": "8991234567890",
+      "category": "Susu",
+      "location": "Chiller 2 - B1",
+      "stock": 24,
+      "unit": "Pcs",
+      "batchNo": "B-001",
+      "expiredDate": "2026-09-02",
+      "buyPrice": 15000,
+      "sellPrice": 18000,
+      "lastUpdated": "2026-09-04T01:53:55.940Z"
+    },
+    {
+      "id": "5derdkq",
+      "name": "Mie Instan Goreng",
+      "sku": "8991234567911",
+      "category": "Makanan",
+      "location": "Rak A1 - L3",
+      "stock": 5,
+      "unit": "Karton",
+      "batchNo": "B-002",
+      "expiredDate": "2026-09-09",
+      "buyPrice": 95000,
+      "sellPrice": 110000,
+      "lastUpdated": "2026-09-04T01:53:55.940Z"
+    },
+    {
+      "id": "93ce8sy",
+      "name": "Kecap Manis Refill 520ml",
+      "sku": "8991234567554",
+      "category": "Bumbu",
+      "location": "Rak B4 - L1",
+      "stock": 12,
+      "unit": "Pcs",
+      "batchNo": "B-003",
+      "expiredDate": "2026-09-24",
+      "buyPrice": 18000,
+      "sellPrice": 22000,
+      "lastUpdated": "2026-09-04T01:53:55.940Z"
+    },
+    {
+      "id": "areuffj",
+      "name": "Roti Tawar Serbaguna",
+      "sku": "8991234567222",
+      "category": "Makanan",
+      "location": "Etalase Depan",
+      "stock": 8,
+      "unit": "Pcs",
+      "batchNo": "B-004",
+      "expiredDate": "2026-09-06",
+      "buyPrice": 12000,
+      "sellPrice": 15000,
+      "lastUpdated": "2026-09-04T01:53:55.940Z"
+    },
+    {
+      "id": "ttxr2hi",
+      "name": "Sereal Cokelat 300g",
+      "sku": "8991234567333",
+      "category": "Makanan",
+      "location": "Rak A2 - L2",
+      "stock": 45,
+      "unit": "Pcs",
+      "batchNo": "B-005",
+      "expiredDate": "2027-03-03",
+      "buyPrice": 25000,
+      "sellPrice": 32000,
+      "lastUpdated": "2026-09-04T01:53:55.940Z"
+    },
+    {
+      "id": "gvhq59f",
+      "name": "Air Mineral 600ml",
+      "sku": "8991234567111",
+      "category": "Minuman",
+      "location": "Chiller 1",
+      "stock": 120,
+      "unit": "Botol",
+      "batchNo": "B-006",
+      "expiredDate": "2027-09-04",
+      "buyPrice": 2500,
+      "sellPrice": 4000,
+      "lastUpdated": "2026-09-04T01:53:55.940Z"
+    },
+    {
+      "id": "09gd9dp",
+      "name": "Minyak Goreng 2L",
+      "sku": "8991234567444",
+      "category": "Bumbu",
+      "location": "Rak C1",
+      "stock": 30,
+      "unit": "Pcs",
+      "batchNo": "B-007",
+      "expiredDate": "2027-01-02",
+      "buyPrice": 32000,
+      "sellPrice": 35000,
+      "lastUpdated": "2026-09-04T01:53:55.940Z"
+    },
+    {
+      "id": "qjv7ofe",
+      "name": "Yogurt Strawberry 150ml",
+      "sku": "8991234567777",
+      "category": "Minuman",
+      "location": "Chiller 2",
+      "stock": 15,
+      "unit": "Botol",
+      "batchNo": "B-008",
+      "expiredDate": "2026-09-03",
+      "buyPrice": 7000,
+      "sellPrice": 9500,
+      "lastUpdated": "2026-09-04T01:53:55.940Z"
+    },
+    {
+      "id": "22h81md",
+      "name": "Sabun Mandi Cair 450ml",
+      "sku": "8991234567888",
+      "category": "Lainnya",
+      "location": "Rak D2",
+      "stock": 22,
+      "unit": "Pcs",
+      "batchNo": "B-009",
+      "expiredDate": "2028-04-26",
+      "buyPrice": 18000,
+      "sellPrice": 24000,
+      "lastUpdated": "2026-09-04T01:53:55.940Z"
+    },
+    {
+      "id": "wtomxmm",
+      "name": "Beras Premium 5Kg",
+      "sku": "8991234567999",
+      "category": "Makanan",
+      "location": "Area Depan",
+      "stock": 50,
+      "unit": "Pcs",
+      "batchNo": "B-010",
+      "expiredDate": "2026-12-03",
+      "buyPrice": 65000,
+      "sellPrice": 72000,
+      "lastUpdated": "2026-09-04T01:53:55.940Z"
+    }
+  ],
   "mutationLogs": [
     {
       "id": "mjnw1ff",
@@ -20,6 +161,106 @@
       "finalStock": 100,
       "date": "2026-08-29T03:56:27.983Z",
       "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "wejs10o",
+      "productId": "v0xrgcs",
+      "productName": "Susu UHT Full Cream 1L",
+      "type": "IN",
+      "qtyChange": 24,
+      "finalStock": 24,
+      "date": "2026-09-04T01:53:55.940Z",
+      "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "s7u9omv",
+      "productId": "5derdkq",
+      "productName": "Mie Instan Goreng",
+      "type": "IN",
+      "qtyChange": 5,
+      "finalStock": 5,
+      "date": "2026-09-04T01:53:55.940Z",
+      "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "50azj3d",
+      "productId": "93ce8sy",
+      "productName": "Kecap Manis Refill 520ml",
+      "type": "IN",
+      "qtyChange": 12,
+      "finalStock": 12,
+      "date": "2026-09-04T01:53:55.940Z",
+      "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "cwhigr8",
+      "productId": "areuffj",
+      "productName": "Roti Tawar Serbaguna",
+      "type": "IN",
+      "qtyChange": 8,
+      "finalStock": 8,
+      "date": "2026-09-04T01:53:55.940Z",
+      "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "2o3unhw",
+      "productId": "ttxr2hi",
+      "productName": "Sereal Cokelat 300g",
+      "type": "IN",
+      "qtyChange": 45,
+      "finalStock": 45,
+      "date": "2026-09-04T01:53:55.940Z",
+      "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "a16nffa",
+      "productId": "gvhq59f",
+      "productName": "Air Mineral 600ml",
+      "type": "IN",
+      "qtyChange": 120,
+      "finalStock": 120,
+      "date": "2026-09-04T01:53:55.940Z",
+      "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "wtt3uxy",
+      "productId": "09gd9dp",
+      "productName": "Minyak Goreng 2L",
+      "type": "IN",
+      "qtyChange": 30,
+      "finalStock": 30,
+      "date": "2026-09-04T01:53:55.940Z",
+      "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "hye7h24",
+      "productId": "qjv7ofe",
+      "productName": "Yogurt Strawberry 150ml",
+      "type": "IN",
+      "qtyChange": 15,
+      "finalStock": 15,
+      "date": "2026-09-04T01:53:55.940Z",
+      "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "pd868d7",
+      "productId": "22h81md",
+      "productName": "Sabun Mandi Cair 450ml",
+      "type": "IN",
+      "qtyChange": 22,
+      "finalStock": 22,
+      "date": "2026-09-04T01:53:55.940Z",
+      "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "td13aed",
+      "productId": "wtomxmm",
+      "productName": "Beras Premium 5Kg",
+      "type": "IN",
+      "qtyChange": 50,
+      "finalStock": 50,
+      "date": "2026-09-04T01:53:55.940Z",
+      "note": "Stok awal (Auto-generated demo data)"
     }
   ]
 }
