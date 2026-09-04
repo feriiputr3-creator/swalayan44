@@ -139,6 +139,20 @@
       "sellPrice": 5000,
       "id": "ztfaepp",
       "lastUpdated": "2026-09-04T23:44:08.497Z"
+    },
+    {
+      "name": "Pristine 1liter",
+      "sku": "8999510785472",
+      "category": "Minuman",
+      "location": "Heny",
+      "stock": 2,
+      "unit": "Karton",
+      "batchNo": "",
+      "expiredDate": "2028-07-18",
+      "buyPrice": 0,
+      "sellPrice": 7000,
+      "id": "0ht5hgg",
+      "lastUpdated": "2026-09-04T23:48:38.648Z"
     }
   ],
   "mutationLogs": [
@@ -600,6 +614,16 @@
       "qtyChange": 5,
       "finalStock": 5,
       "date": "2026-09-04T23:44:08.497Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "tmnzb10",
+      "productId": "0ht5hgg",
+      "productName": "Pristine 1liter",
+      "type": "IN",
+      "qtyChange": 2,
+      "finalStock": 2,
+      "date": "2026-09-04T23:48:38.648Z",
       "note": "Barang Masuk Awal"
     }
   ]
