@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "id": "5derdkq",
-      "name": "Mie Instan Goreng",
-      "sku": "8991234567911",
-      "category": "Makanan",
-      "location": "Rak A1 - L3",
-      "stock": 5,
-      "unit": "Karton",
-      "batchNo": "B-002",
-      "expiredDate": "2026-09-09",
-      "buyPrice": 95000,
-      "sellPrice": 110000,
-      "lastUpdated": "2026-09-04T01:53:55.940Z"
-    },
-    {
       "id": "93ce8sy",
       "name": "Kecap Manis Refill 520ml",
       "sku": "8991234567554",
