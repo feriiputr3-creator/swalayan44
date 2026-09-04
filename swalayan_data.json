@@ -153,6 +153,20 @@
       "sellPrice": 57000,
       "id": "89kr35r",
       "lastUpdated": "2026-09-04T04:42:04.421Z"
+    },
+    {
+      "name": "CUSSONS BABY NEWBORD",
+      "sku": "8998103017600",
+      "category": "Lainnya",
+      "location": "RAK A1",
+      "stock": 1,
+      "unit": "Pcs",
+      "batchNo": "Dhl0886422",
+      "expiredDate": "2029-03-01",
+      "buyPrice": 58500,
+      "sellPrice": 58500,
+      "id": "d3ww0sq",
+      "lastUpdated": "2026-09-04T04:44:46.331Z"
     }
   ],
   "mutationLogs": [
@@ -504,6 +518,16 @@
       "qtyChange": 4,
       "finalStock": 4,
       "date": "2026-09-04T04:42:04.421Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "svc005b",
+      "productId": "d3ww0sq",
+      "productName": "CUSSONS BABY NEWBORD",
+      "type": "IN",
+      "qtyChange": 1,
+      "finalStock": 1,
+      "date": "2026-09-04T04:44:46.331Z",
       "note": "Barang Masuk Awal"
     }
   ]
