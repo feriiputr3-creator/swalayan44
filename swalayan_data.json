@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "id": "piqik2l",
-      "name": "Minyak Goreng 2L",
-      "sku": "8991234567444",
-      "category": "Bumbu",
-      "location": "Rak C1",
-      "stock": 30,
-      "unit": "Pcs",
-      "batchNo": "B-007",
-      "expiredDate": "2027-01-02",
-      "buyPrice": 32000,
-      "sellPrice": 35000,
-      "lastUpdated": "2026-09-04T04:08:18.233Z"
-    },
-    {
       "id": "ipjo725",
       "name": "Yogurt Strawberry 150ml",
       "sku": "8991234567777",
