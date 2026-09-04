@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "id": "93ce8sy",
-      "name": "Kecap Manis Refill 520ml",
-      "sku": "8991234567554",
-      "category": "Bumbu",
-      "location": "Rak B4 - L1",
-      "stock": 12,
-      "unit": "Pcs",
-      "batchNo": "B-003",
-      "expiredDate": "2026-09-24",
-      "buyPrice": 18000,
-      "sellPrice": 22000,
-      "lastUpdated": "2026-09-04T01:53:55.940Z"
-    },
-    {
       "id": "areuffj",
       "name": "Roti Tawar Serbaguna",
       "sku": "8991234567222",
