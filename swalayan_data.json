@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "id": "lu942uy",
-      "name": "Sabun Mandi Cair 450ml",
-      "sku": "8991234567888",
-      "category": "Lainnya",
-      "location": "Rak D2",
-      "stock": 22,
-      "unit": "Pcs",
-      "batchNo": "B-009",
-      "expiredDate": "2028-04-26",
-      "buyPrice": 18000,
-      "sellPrice": 24000,
-      "lastUpdated": "2026-09-04T04:08:18.233Z"
-    },
-    {
       "id": "cf6gty2",
       "name": "Beras Premium 5Kg",
       "sku": "8991234567999",
