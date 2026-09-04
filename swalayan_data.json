@@ -139,6 +139,20 @@
       "buyPrice": 65000,
       "sellPrice": 72000,
       "lastUpdated": "2026-09-04T04:08:18.233Z"
+    },
+    {
+      "name": "MITU BABY BOX",
+      "sku": "8992745326298",
+      "category": "Lainnya",
+      "location": "RAK A1",
+      "stock": 4,
+      "unit": "Pcs",
+      "batchNo": "23125mg011",
+      "expiredDate": "2027-10-01",
+      "buyPrice": 57000,
+      "sellPrice": 57000,
+      "id": "89kr35r",
+      "lastUpdated": "2026-09-04T04:42:04.421Z"
     }
   ],
   "mutationLogs": [
@@ -481,6 +495,16 @@
       "finalStock": 50,
       "date": "2026-09-04T04:08:18.233Z",
       "note": "Stok awal (Auto-generated demo data)"
+    },
+    {
+      "id": "gudthvi",
+      "productId": "89kr35r",
+      "productName": "MITU BABY BOX",
+      "type": "IN",
+      "qtyChange": 4,
+      "finalStock": 4,
+      "date": "2026-09-04T04:42:04.421Z",
+      "note": "Barang Masuk Awal"
     }
   ]
 }
