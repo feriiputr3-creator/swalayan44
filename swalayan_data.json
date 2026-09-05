@@ -251,6 +251,20 @@
       "sellPrice": 6000,
       "id": "9ju87g7",
       "lastUpdated": "2026-09-05T00:07:21.728Z"
+    },
+    {
+      "name": "Larutan cap kaki 3 rasa leci",
+      "sku": "8995227509278",
+      "category": "Minuman",
+      "location": "Heny",
+      "stock": 20,
+      "unit": "Pcs",
+      "batchNo": "",
+      "expiredDate": "2029-06-05",
+      "buyPrice": 0,
+      "sellPrice": 6000,
+      "id": "3r1mvox",
+      "lastUpdated": "2026-09-05T00:13:00.534Z"
     }
   ],
   "mutationLogs": [
@@ -792,6 +806,16 @@
       "qtyChange": 14,
       "finalStock": 14,
       "date": "2026-09-05T00:07:21.728Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "ns8y0os",
+      "productId": "3r1mvox",
+      "productName": "Larutan cap kaki 3 rasa leci",
+      "type": "IN",
+      "qtyChange": 20,
+      "finalStock": 20,
+      "date": "2026-09-05T00:13:00.534Z",
       "note": "Barang Masuk Awal"
     }
   ]
