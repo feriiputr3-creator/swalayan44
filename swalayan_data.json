@@ -237,6 +237,20 @@
       "sellPrice": 6000,
       "id": "ia43tiw",
       "lastUpdated": "2026-09-05T00:04:05.384Z"
+    },
+    {
+      "name": "Larutan cap kaki 3 rasa anggur",
+      "sku": "89952275000230",
+      "category": "Minuman",
+      "location": "Heny",
+      "stock": 14,
+      "unit": "Pcs",
+      "batchNo": "",
+      "expiredDate": "2029-03-05",
+      "buyPrice": 0,
+      "sellPrice": 6000,
+      "id": "9ju87g7",
+      "lastUpdated": "2026-09-05T00:07:21.728Z"
     }
   ],
   "mutationLogs": [
@@ -768,6 +782,16 @@
       "qtyChange": 9,
       "finalStock": 9,
       "date": "2026-09-05T00:04:05.384Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "gqsd5bb",
+      "productId": "9ju87g7",
+      "productName": "Larutan cap kaki 3 rasa anggur",
+      "type": "IN",
+      "qtyChange": 14,
+      "finalStock": 14,
+      "date": "2026-09-05T00:07:21.728Z",
       "note": "Barang Masuk Awal"
     }
   ]
