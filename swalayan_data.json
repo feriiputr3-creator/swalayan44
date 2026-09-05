@@ -223,6 +223,20 @@
       "sellPrice": 7000,
       "id": "0ilq1kv",
       "lastUpdated": "2026-09-04T23:59:56.080Z"
+    },
+    {
+      "name": "Larutan cap kaki 3 rasa markisa ",
+      "sku": "8995227501039",
+      "category": "Minuman",
+      "location": "Heny ",
+      "stock": 9,
+      "unit": "Pcs",
+      "batchNo": "",
+      "expiredDate": "2028-10-05",
+      "buyPrice": 0,
+      "sellPrice": 6000,
+      "id": "ia43tiw",
+      "lastUpdated": "2026-09-05T00:04:05.384Z"
     }
   ],
   "mutationLogs": [
@@ -744,6 +758,16 @@
       "qtyChange": 12,
       "finalStock": 12,
       "date": "2026-09-04T23:59:56.080Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "ykmrceg",
+      "productId": "ia43tiw",
+      "productName": "Larutan cap kaki 3 rasa markisa ",
+      "type": "IN",
+      "qtyChange": 9,
+      "finalStock": 9,
+      "date": "2026-09-05T00:04:05.384Z",
       "note": "Barang Masuk Awal"
     }
   ]
