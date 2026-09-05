@@ -265,6 +265,20 @@
       "sellPrice": 6000,
       "id": "3r1mvox",
       "lastUpdated": "2026-09-05T00:13:00.534Z"
+    },
+    {
+      "name": "Larutan cap kaki tiga rasa strobery",
+      "sku": "899522650025",
+      "category": "Minuman",
+      "location": "Heny",
+      "stock": 14,
+      "unit": "Pcs",
+      "batchNo": "",
+      "expiredDate": "2029-06-05",
+      "buyPrice": 0,
+      "sellPrice": 6000,
+      "id": "q5okwe9",
+      "lastUpdated": "2026-09-05T00:14:47.794Z"
     }
   ],
   "mutationLogs": [
@@ -816,6 +830,16 @@
       "qtyChange": 20,
       "finalStock": 20,
       "date": "2026-09-05T00:13:00.534Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "x1rcj32",
+      "productId": "q5okwe9",
+      "productName": "Larutan cap kaki tiga rasa strobery",
+      "type": "IN",
+      "qtyChange": 14,
+      "finalStock": 14,
+      "date": "2026-09-05T00:14:47.794Z",
       "note": "Barang Masuk Awal"
     }
   ]
