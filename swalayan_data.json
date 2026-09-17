@@ -335,6 +335,20 @@
       "sellPrice": 0,
       "id": "wiiybg9",
       "lastUpdated": "2026-09-17T00:36:43.729Z"
+    },
+    {
+      "name": "Caladine",
+      "sku": "8993005201034",
+      "category": "Lainnya",
+      "location": "Sahal rak a1",
+      "stock": 4,
+      "unit": "Pcs",
+      "batchNo": "Gz5002",
+      "expiredDate": "2027-07-01",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "7zfgzip",
+      "lastUpdated": "2026-09-17T00:37:49.998Z"
     }
   ],
   "mutationLogs": [
@@ -936,6 +950,16 @@
       "qtyChange": 1,
       "finalStock": 1,
       "date": "2026-09-17T00:36:43.729Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "27mdyjn",
+      "productId": "7zfgzip",
+      "productName": "Caladine",
+      "type": "IN",
+      "qtyChange": 4,
+      "finalStock": 4,
+      "date": "2026-09-17T00:37:49.998Z",
       "note": "Barang Masuk Awal"
     }
   ]
