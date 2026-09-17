@@ -321,6 +321,20 @@
       "sellPrice": 0,
       "id": "jpen6zw",
       "lastUpdated": "2026-09-17T00:34:52.055Z"
+    },
+    {
+      "name": "CALADINE SOFT COMFORT 60g",
+      "sku": "8993005202055",
+      "category": "Lainnya",
+      "location": "Sahal rak a1",
+      "stock": 1,
+      "unit": "Pcs",
+      "batchNo": "F24005",
+      "expiredDate": "2029-06-01",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "wiiybg9",
+      "lastUpdated": "2026-09-17T00:36:43.729Z"
     }
   ],
   "mutationLogs": [
@@ -912,6 +926,16 @@
       "qtyChange": 8,
       "finalStock": 8,
       "date": "2026-09-17T00:34:52.055Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "wv4fk33",
+      "productId": "wiiybg9",
+      "productName": "CALADINE SOFT COMFORT 60g",
+      "type": "IN",
+      "qtyChange": 1,
+      "finalStock": 1,
+      "date": "2026-09-17T00:36:43.729Z",
       "note": "Barang Masuk Awal"
     }
   ]
