@@ -307,6 +307,20 @@
       "sellPrice": 0,
       "id": "kabnii9",
       "lastUpdated": "2026-09-17T00:33:36.073Z"
+    },
+    {
+      "name": "CALADINE 60g",
+      "sku": "8993005202062",
+      "category": "Lainnya",
+      "location": "Sahal rak a1",
+      "stock": 8,
+      "unit": "Pcs",
+      "batchNo": "125002",
+      "expiredDate": "2030-09-01",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "jpen6zw",
+      "lastUpdated": "2026-09-17T00:34:52.055Z"
     }
   ],
   "mutationLogs": [
@@ -888,6 +902,16 @@
       "qtyChange": 8,
       "finalStock": 8,
       "date": "2026-09-17T00:33:36.073Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "sibfhhj",
+      "productId": "jpen6zw",
+      "productName": "CALADINE 60g",
+      "type": "IN",
+      "qtyChange": 8,
+      "finalStock": 8,
+      "date": "2026-09-17T00:34:52.055Z",
       "note": "Barang Masuk Awal"
     }
   ]
