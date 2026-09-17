@@ -279,6 +279,20 @@
       "sellPrice": 6000,
       "id": "q5okwe9",
       "lastUpdated": "2026-09-05T00:14:47.794Z"
+    },
+    {
+      "name": "BEDAK DRAGON 100G",
+      "sku": "8998168007028",
+      "category": "Lainnya",
+      "location": "Sahal rak a1",
+      "stock": 14,
+      "unit": "Pcs",
+      "batchNo": "0201261",
+      "expiredDate": "2030-01-01",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "isvhz8j",
+      "lastUpdated": "2026-09-17T00:32:09.262Z"
     }
   ],
   "mutationLogs": [
@@ -840,6 +854,16 @@
       "qtyChange": 14,
       "finalStock": 14,
       "date": "2026-09-05T00:14:47.794Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "xubswkb",
+      "productId": "isvhz8j",
+      "productName": "BEDAK DRAGON 100G",
+      "type": "IN",
+      "qtyChange": 14,
+      "finalStock": 14,
+      "date": "2026-09-17T00:32:09.262Z",
       "note": "Barang Masuk Awal"
     }
   ]
