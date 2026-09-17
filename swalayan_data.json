@@ -349,6 +349,20 @@
       "sellPrice": 0,
       "id": "7zfgzip",
       "lastUpdated": "2026-09-17T00:37:49.998Z"
+    },
+    {
+      "name": "Cussons baby 260g",
+      "sku": "8998103000602",
+      "category": "Lainnya",
+      "location": "Sahal rak a1",
+      "stock": 10,
+      "unit": "Pcs",
+      "batchNo": "010426",
+      "expiredDate": "2029-04-01",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "y8v99t3",
+      "lastUpdated": "2026-09-17T00:40:19.114Z"
     }
   ],
   "mutationLogs": [
@@ -960,6 +974,16 @@
       "qtyChange": 4,
       "finalStock": 4,
       "date": "2026-09-17T00:37:49.998Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "95cdrby",
+      "productId": "y8v99t3",
+      "productName": "Cussons baby 260g",
+      "type": "IN",
+      "qtyChange": 10,
+      "finalStock": 10,
+      "date": "2026-09-17T00:40:19.114Z",
       "note": "Barang Masuk Awal"
     }
   ]
