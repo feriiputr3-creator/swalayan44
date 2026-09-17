@@ -293,6 +293,20 @@
       "sellPrice": 0,
       "id": "isvhz8j",
       "lastUpdated": "2026-09-17T00:32:09.262Z"
+    },
+    {
+      "name": "My baby 50g",
+      "sku": "8999908053800",
+      "category": "Lainnya",
+      "location": "Sahal rak a1",
+      "stock": 8,
+      "unit": "Pcs",
+      "batchNo": "24114492",
+      "expiredDate": "2027-09-01",
+      "buyPrice": 0,
+      "sellPrice": 0,
+      "id": "kabnii9",
+      "lastUpdated": "2026-09-17T00:33:36.073Z"
     }
   ],
   "mutationLogs": [
@@ -864,6 +878,16 @@
       "qtyChange": 14,
       "finalStock": 14,
       "date": "2026-09-17T00:32:09.262Z",
+      "note": "Barang Masuk Awal"
+    },
+    {
+      "id": "7tadmvi",
+      "productId": "kabnii9",
+      "productName": "My baby 50g",
+      "type": "IN",
+      "qtyChange": 8,
+      "finalStock": 8,
+      "date": "2026-09-17T00:33:36.073Z",
       "note": "Barang Masuk Awal"
     }
   ]
